@@ -1,0 +1,23 @@
+body{
+background-color: blueviolet;
+
+}
+
+body{
+    background-color: coral;
+    color: chartreuse;
+    font-size: 100px;
+}
+div{
+background-color: brown;
+padding: 20px;
+border-style: dashed;
+border-width: 5px;
+border-color: chocolate;
+margin-left: 50px;
+}
+
+img
+{
+    border-radius: 20px;
+}
